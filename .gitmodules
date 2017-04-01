@@ -2,3 +2,7 @@
 	path = Frameworks/Foundation
 	url = git@github.com:Nocross/AAIFoundation.git
 	branch = master
+[submodule "Frameworks/CoreData"]
+	path = Frameworks/CoreData
+	url = git@github.com:Nocross/AAICoreData.git
+	branch = master
