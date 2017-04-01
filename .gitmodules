@@ -6,3 +6,7 @@
 	path = Frameworks/CoreData
 	url = git@github.com:Nocross/AAICoreData.git
 	branch = master
+[submodule "Frameworks/UIKit"]
+	path = Frameworks/UIKit
+	url = git@github.com:Nocross/AAIUIKit.git
+	branch = master
