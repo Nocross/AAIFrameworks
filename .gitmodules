@@ -10,3 +10,7 @@
 	path = Frameworks/UIKit
 	url = git@github.com:Nocross/AAIUIKit.git
 	branch = master
+[submodule "Frameworks/XCConfigs"]
+	path = Frameworks/XCConfigs
+	url = git@github.com:Nocross/XCConfigs-Specific.git
+	branch = master
