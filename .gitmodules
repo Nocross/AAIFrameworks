@@ -1,0 +1,4 @@
+[submodule "Frameworks/Foundation"]
+	path = Frameworks/Foundation
+	url = git@github.com:Nocross/AAIFoundation.git
+	branch = master
